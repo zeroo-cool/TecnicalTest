@@ -192,7 +192,7 @@ Tecnologías utilizadas:
 
 ## ⚙️ Instalación del Entorno
 
-### Crear entorno virtual
+### Crear entorno virtual para arraque la API
 
 ```bash
 python -m venv venv
