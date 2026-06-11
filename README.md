@@ -192,7 +192,7 @@ Tecnologías utilizadas:
 
 ## ⚙️ Instalación del Entorno
 
-### Crear entorno virtual para arraque la API
+### Crear entorno virtual para arraque la API (Ejecutar en el mismo directorio del archivo main.py)
 
 ```bash
 python -m venv venv
