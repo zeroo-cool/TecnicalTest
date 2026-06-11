@@ -116,6 +116,13 @@ Objetivos:
 * total
 * status
 
+#### Diagrama ER
+
+<img width="1024" height="188" alt="image" src="https://github.com/user-attachments/assets/f5588f33-6809-4738-8953-ac248a66a8e7" />
+
+
+
+
 ---
 
 ## 🌐 Fase 4. API REST con FastAPI
