@@ -217,13 +217,6 @@ source venv/bin/activate
 ```bash
 pip install pandas numpy sqlalchemy pyodbc fastapi uvicorn pydantic streamlit requests plotly python-multipart
 ```
-
-### Generar requirements.txt
-
-```bash
-pip freeze > requirements.txt
-```
-
 ---
 
 ## 📦 Dependencias del Proyecto
